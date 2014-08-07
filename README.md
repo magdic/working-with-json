@@ -12,4 +12,4 @@ Under construction...
 ## License
 Fell free to edit and share.
 
-#### :copyright: Magdiel Cordero
+August 2014 :copyright: <a href="https://magdielcordero.info" target="_blank">Magdiel Cordero</a> 
