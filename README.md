@@ -3,7 +3,7 @@ Working with Json
 
 Calling facebook json with id or username and display a info about the user requested.
 
-- Live Website for Test: <a href="" target="_blank">Live Test | Github Pages</a>
+- Live Website for Test: <a href="http://magdic.github.io/working-with-json/" target="_blank">Live Test | Github Pages</a>
 
 Instrucctions
 =============
