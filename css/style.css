@@ -1,0 +1,50 @@
+
+body {
+	margin:auto;
+	display: block;
+	position: relative;
+	width: 100%;
+	font-family: sans-serif, arial;
+}
+
+#formway {
+	margin: 20px auto !important;
+	max-width: 400px;
+	width: 100%;
+	position: relative;
+}
+
+#taken {
+	-webkit-appearance: none;
+	outline: none;
+	border:1px solid #efefef;
+	padding: 5px;
+	width: 180px;
+
+}
+
+#submitForm {
+	outline: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	background: #000;
+	border: none;
+	color: #fff;
+	padding: 5px 10px 5px 10px;
+}
+
+#divdata {
+	margin: 20px auto !important;
+	max-width: 780px;
+	width: 100%;
+	position: relative;
+	text-align: center;
+}
+
+#get-name {
+	color:red;
+}
+
+#foo {
+	color:blue;
+}
