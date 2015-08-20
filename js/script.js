@@ -13,7 +13,7 @@ function getUrlVariable(variable)
 (function() {
 
   var flickerAPI = "https://graph.facebook.com/"+callUsername;
-  $.getJSON( flickerAPI, {
+  $.getJSON( fbAPI, {
     format: "json"
   })
     .done(function( data ) {
@@ -35,4 +35,3 @@ function getUrlVariable(variable)
         })
     });
 })();
-
