@@ -12,7 +12,7 @@ function getUrlVariable(variable)
 
 (function() {
 
-  var flickerAPI = "https://graph.facebook.com/"+callUsername;
+  var flickerAPI = "https://graph.facebook.com/"+callUsername; //this call has been deprecated
   $.getJSON( fbAPI, {
     format: "json"
   })
